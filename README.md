@@ -1,5 +1,5 @@
 # Aether-Engine
-Was trying to make a game engine with GLFW with LWJGL's Java Bindings for OpenGL...
+Was trying to make a game engine with GLFW with LWJGL's Java Bindings for OpenGL...  
 But then I slowly realized how difficult and time consuming this project can be so its on hold for now.
 
 ## Features so far
