@@ -2,6 +2,8 @@
 Was trying to make a game engine with GLFW with LWJGL's Java Bindings for OpenGL...  
 But then I slowly realized how difficult and time consuming this project can be so its on hold for now.
 
+![alt text](screenshot.jpg)
+
 ## Features so far
 1. Opens a window.
 2. Game loop with V-sync.
